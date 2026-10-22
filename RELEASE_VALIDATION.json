@@ -1,0 +1,22 @@
+{
+  "numeric_cells_verified_unchanged": 41270265,
+  "python_ASTs_equal_except_strings": 66,
+  "precision_tensor_identical_configs": 4,
+  "new_board_runs": 0,
+  "original_source_files_verified": 4057,
+  "original_changes": 0,
+  "privacy_scan_issues": 0,
+  "forbidden_assets": 0,
+  "public_Python_files_parsed": 67,
+  "public_JSON_files_parsed": 2626,
+  "repeat_output_files_identical": 20,
+  "statistical_comparison_checks": 17488,
+  "numeric_mismatches": 0,
+  "Rev13_checked_fields": 108,
+  "paper_table_mapping": "SCOPE_DIFFERENCE",
+  "licenses": "AUTHOR_CONFIRMATION_PENDING",
+  "new_board_connections": 0,
+  "new_model_forwards": 0,
+  "unknown_third_party_helper_included": false,
+  "manifest_self_entry": "excluded; external SHA supplied"
+}

@@ -1,0 +1,4 @@
+38ca07093fd0adc500bee36fcd9bd6d5f5617ab0387154ff8025fb3c534a4fe1  rdkx5-yolo11-interface-study.zip
+4523b778474c4a6cc526f320b836119298fb12f66aacd32b8c4c361528d5ebcc  rdkx5-yolo11-interface-study_CODE.zip
+7d699ca6fe855fd66c80b03f420a34c3ff0759fcad914c1db837aba1e84f1ffe  rdkx5-yolo11-interface-study_DATA.zip
+c95bce8f448830ab54d2d15e97e2a3a097428136100a9a1a34cd29db5d82635b  rdkx5-yolo11-interface-study/MANIFEST.csv

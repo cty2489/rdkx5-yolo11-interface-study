@@ -1,0 +1,10 @@
+data/
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+*.bin
+*.onnx
+*.pt
+*.nv12
+*.so

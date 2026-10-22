@@ -1,0 +1,9 @@
+requested_table,source,Rev13_corresponding_table,status
+3,Step1,3,SCOPE_DIFFERS: Step1 has R/F/S/S2; Rev13 has earlier M6/R/F
+4,Step2,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+5,Step2,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+6,Step2,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+7,E3,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+8,E4,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+9,E1,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
+10,E6,NONE,NOT_IN_REV13; Rev13 has seven tables from older batches
